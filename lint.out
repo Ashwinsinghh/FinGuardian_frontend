@@ -1,0 +1,10 @@
+
+C:\Users\ashwi\OneDrive\Documents\Consumer\frontend\src\app\analysis\[id]\page.tsx
+   47:22  error  '_err' is defined but never used                                 @typescript-eslint/no-unused-vars
+   69:61  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  233:60  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  256:62  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  261:60  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+✖ 5 problems (5 errors, 0 warnings)
+
